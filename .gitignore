@@ -1,0 +1,7 @@
+# Ignore binary files
+**.xlsm
+# But not folders having .xlsm in their name
+!*.xlsm/
+src/SQL2Excel.xlsm/NamedRanges.csv
+src/SQL2Excel.xlsm/ThisWorkbook.sheet.cls
+src/SQL2Excel.xlsm/shParams.sheet.cls
