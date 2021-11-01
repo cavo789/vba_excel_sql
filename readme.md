@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # SQL Server to Microsoft Excel
+
+![Banner](./banner.svg)
 
 VBA class for Excel to make easy to access records stored in SQL Server and output these data in an Excel sheet; keeping or not the link
 
